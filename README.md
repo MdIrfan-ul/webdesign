@@ -9,11 +9,11 @@ Welcome to the Simple Calculator project! This is a basic calculator application
 ### Prerequisites
 Make sure you have [JavaScript] installed on your machine. You can download it from [official website].
 ### Installation
-1.Clone the repository:
+* 1.Clone the repository:
 ```https://github.com/MdIrfan-ul/webdesign.git```
-2.Change into the project directory:
+* 2.Change into the project directory:
 ```cd webdesign```
-3.Run the application:
+* 3.Run the application:
 ```run the index.html on web browser```
 ## Usage
 1.Launch the application.
